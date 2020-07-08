@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="i7.x4hDRN[K/[U!Xd{EL">badguy</variable><variable type="KIND_SpriteKind" id="l;;4zrrRPSnMHJB$*j)z">badguy1</variable><variable type="KIND_SpriteKind" id="I_6`ShIA2:r,nMRYtt^4">badguy2</variable><variable type="KIND_SpriteKind" id="Oyva0+Pgoh2l}(#nydXT">Player</variable><variable type="KIND_SpriteKind" id="!WC7n`4i.Mm8Z1xOBUcW">Projectile</variable><variable type="KIND_SpriteKind" id="#)Hq{Q`hvznDcfkqH!^j">Food</variable><variable type="KIND_SpriteKind" id="Key-v+Spqjr5S4q/;,md">Enemy</variable><variable id=".F!~iyYJjg$Ie{B7Tv*`">Coin</variable><variable id="[Pg_r6G8Q[AIZ~F?D(1m">X</variable><variable id="C4/:=wsQWMMKC}i:SQx!">mySprite2</variable><variable id="Va^rKzfoTGG8If.$P/9$">Yellow_X</variable><variable id="2lpuXC)[mqx%gSn!|hq]">Green X</variable><variable id="[3Q,1|Q#J%lgZj!8dEfR">White X</variable><variable id="B^myJ6-irlBz1J/dwxk2">mySprite</variable></variables><block type="pxt-on-start" x="0" y="0"><statement name="HANDLER"><block type="variables_set"><field name="VAR" id="B^myJ6-irlBz1J/dwxk2">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate"><value name="img"><shadow type="screen_image_picker"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field></shadow></value><value name="kind"><shadow type="spritekind"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesay"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get"><field name="VAR" id="B^myJ6-irlBz1J/dwxk2">mySprite</field></block></value><value name="text"><shadow type="text"><field name="TEXT">:)</field></shadow></value></block></next></block></statement></block></xml>
